@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Github 
 Clone
 Question2
+=======
+
+
+Question2
+>>>>>>> c070bd07eef647cfd4e5501acce69ab18a1596be
